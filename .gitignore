@@ -1,1 +1,2 @@
-src/data/tweets/
+src/data/tweets/tweets_sentiment.csv
+src/data/tweets/tweets_sentiment_v2.csv
